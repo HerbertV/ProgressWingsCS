@@ -40,7 +40,8 @@ C:\Programme\Adobe\Adobe Flash CS3\de\Configuration\Components
 3. 	Go to the Component Window: Menu->Window->Component
 	ProgressWingsCS should appear there.
 4.	now you can drag&drop the component on to your stage.
-	![Component Instpector](https://github.com/HerbertV/ProgressWingsCS/blob/master/images/ComponentInspector.png?raw=true)
+
+![Component Instpector](https://github.com/HerbertV/ProgressWingsCS/blob/master/images/ComponentInspector.png?raw=true)
 
 
 Or see this tutorial how to create and install SWCs:
