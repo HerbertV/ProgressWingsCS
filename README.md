@@ -4,7 +4,7 @@
 
 *Flash SWC progress symbol component.*
 
-I made this progress symbol for "Aeronaut" a Crimson Skies Pilot and Plane Editor.
+I made this progress symbol for "[Aeronaut](https://github.com/HerbertV/Aeronaut)" a Crimson Skies Pilot and Plane Editor.
 
 -----------------------------------
 
